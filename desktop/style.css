@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headline{
+    background-color: black;
+    background:url(./image-hero.jpg)no-repeat center ;
+    height: 100vh;
+    color: white;
+    font: 100px;
+    width: 100%;
+    position: relative;
+}
+.navbar{
+display: flex;
+font-size: 50px;
+width: 100%;
+justify-content: space-between;
+}
+.nav-service{
+display: flex;
+} 
+.a{
+ color: white;
+ text-decoration:none;
+}
+
