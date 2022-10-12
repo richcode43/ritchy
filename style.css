@@ -170,8 +170,9 @@ li a:hover::after{
     transition: color 0.4s linear; 
 }
 .item1:hover{
-    opacity: .6;
-    color: rgb(175, 171, 171);
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
+    color: black;
     
 }
 .item2{
@@ -181,7 +182,8 @@ li a:hover::after{
 }
 
 .item2:hover{
-    opacity: .6;
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
     color: black;
     
 }
@@ -204,7 +206,8 @@ li a:hover::after{
     transition: color 0.4s linear;   
 }
 .item4:hover{
-    opacity: .6;
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
     color: black;
     
 }
@@ -214,7 +217,8 @@ li a:hover::after{
     transition: color 0.4s linear; 
 }
 .item5:hover{
-    opacity: .6;
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
     color: black;
     
 }
@@ -224,8 +228,9 @@ li a:hover::after{
     transition: color 0.4s linear; 
 }
 .item6:hover{
-    opacity: .6;
-    color: rgb(214, 209, 209);
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
+    color: black;
     
 }
 .item7{
@@ -235,7 +240,8 @@ li a:hover::after{
 
 }
 .item7:hover{
-    opacity: .6;
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
     color: black;
     
 }
@@ -245,7 +251,8 @@ li a:hover::after{
     transition: color 0.4s linear;
 }
 .item8:hover{
-    opacity: .6;
+    background-blend-mode: hue;
+    background-color: rgba(255, 255, 255, 0.644);
     color: black;
     
 }
