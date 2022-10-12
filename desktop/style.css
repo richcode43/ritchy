@@ -17,12 +17,20 @@ display: flex;
 font-size: 50px;
 width: 100%;
 justify-content: space-between;
+padding: 50px;
 }
 .nav-service{
 display: flex;
+
 } 
 .a{
  color: white;
  text-decoration:none;
+}
+
+@media(max-width: 991px){
+    .headline .navbar .navitems{
+        width: 50%;
+    }
 }
 
